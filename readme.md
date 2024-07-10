@@ -10,4 +10,4 @@
 
 ## CSS
 - Make card design in deatil
-- Make resoponsivedesign
+- Make resoponsive design
